@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-hf",
+  "version": "1.0.0",
+  "description": "Random Strings Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamHernanFlores/random-str-msg-hf.git"
+  },
+  "keywords": [],
+  "author": "Hernan Flores",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IamHernanFlores/random-str-msg-hf/issues"
+  },
+  "homepage": "https://github.com/IamHernanFlores/random-str-msg-hf#readme",
+  "bin": {
+    "random-str-msg-hf": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
